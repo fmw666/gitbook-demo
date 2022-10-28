@@ -1,8 +1,8 @@
 # gitbook-demo
 
-应用此项目，您可以快速构建您的 gitbook 项目。
+> 应用此项目，您可以快速构建您的 gitbook 项目。
 
-## 如何使用
+### 如何使用
 
 1. 创建 github 仓库，并将此项目复制到仓库中。
 
@@ -14,9 +14,9 @@
 
 1. 在 github 该仓库下，进入 Settings > Pages > Build and deployment > Branch，选择 gh-pages 分支，/(root) 路径，并保存。
 
-1. 通过 username.github.io/reponame 访问 gitbook。
+1. 通过 username.github.io/reponame 访问 gitbook。eg: <https://fmw666.github.io/gitbook-demo/>
 
-## 附录
+### 附录
 
 gitbook 使用教程：<http://caibaojian.com/gitbook/>
 
