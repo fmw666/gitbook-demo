@@ -22,7 +22,7 @@ git push origin main
 cp -r _book/* $TEMP_DIR
 
 # 切换到 gh-pages 分支
-git checkout gh-pages
+git checkout -b gh-pages
 
 # 清空该分支下的所有文件
 git rm -rf .
